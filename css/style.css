@@ -227,7 +227,7 @@ h3 {
     transition: all .1s ease-in-out;
     min-height: 130px;
     position: relative;
-    margin-left: 5px;
+    margin-left: 50px;
     margin-top: 20px;
 
 }
@@ -295,4 +295,14 @@ hr {
 .all {
     display: inline-block;
     float:right;
+}
+.header-content .col_7 ul li {
+    padding: 20px;
+}
+.fa {
+    color: yellow;
+
+}
+.content {
+    padding: 10px;
 }
